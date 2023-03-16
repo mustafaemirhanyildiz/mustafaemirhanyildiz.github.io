@@ -52,3 +52,9 @@ body {
     float: none;
   }
 }
+
+img{
+  position: relative;
+  bottom: 2.4cm;
+  width: 100%;
+}

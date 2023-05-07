@@ -52,9 +52,9 @@ var Text = function(el, toRotate, period) {
 
 
 
-  document.querySelector('#contact-form').addEventListener('submit', (e) => {
-    e.preventDefault();
-    e.target.elements.name.value = '';
-    e.target.elements.email.value = '';
-    e.target.elements.message.value = '';
-  });
+  function submitForm() {
+  
+    document.getElementById("ad").value = "";
+    document.getElementById("konu").value = "";
+    document.getElementById("mesaj").value = "";
+  }

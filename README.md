@@ -1,2 +1,3 @@
 # mustafaemirhanyildiz.github.io
-my personal information website
+Kişisel web sitem 
+siteyi inceleyip mesaj atarak benimle iletişime geçebilirsiniz
